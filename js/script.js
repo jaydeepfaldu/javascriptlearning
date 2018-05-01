@@ -11,7 +11,8 @@ function dataScript(){
     var str1 = 'abc02';
     var str2 = 'sdada33';
 
-    console.log(parseInt(str1) + parseInt(str2));
+    console.log("Calculate : " + parseInt(str1) + parseInt(str2));
+    console.log("Merge " + str1 + str2);
 
 
     var data = [{id:1,info:[{name:'jaydeep'}]},{id:33,info:[{name:'sdsdf'}]}];
