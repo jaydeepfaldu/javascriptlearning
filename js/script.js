@@ -33,6 +33,16 @@ function dataScript(){
     );
 	
 	
+	var branch;
+	var service;
+	var queue;
+	
+	
+	var appointment;
+	var schedule;
+	
+	var statastic;
+	var LDAP;
 	
 	public feature_add()
 	{
@@ -41,6 +51,11 @@ function dataScript(){
 	
 	
 	public client_Panel()
+	{
+		
+	}
+
+	public feature_delete()
 	{
 		
 	}
