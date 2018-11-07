@@ -39,4 +39,9 @@ function dataScript(){
 		
 	}
 
+	public feature_delete()
+	{
+		
+	}
+
 }
