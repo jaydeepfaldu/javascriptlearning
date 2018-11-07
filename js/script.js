@@ -38,5 +38,11 @@ function dataScript(){
 	{
 		
 	}
+	
+	
+	public client_Panel()
+	{
+		
+	}
 
 }
