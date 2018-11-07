@@ -41,6 +41,8 @@ function dataScript(){
 	var appointment;
 	var schedule;
 	
+	var statastic;
+	var LDAP;
 	
 	public feature_add()
 	{
