@@ -38,5 +38,10 @@ function dataScript(){
 	{
 		
 	}
+	
+	public Admin_Panel()
+	{
+		
+	}
 
 }
