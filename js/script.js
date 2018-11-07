@@ -38,6 +38,10 @@ function dataScript(){
 	var queue;
 	
 	
+	var appointment;
+	var schedule;
+	
+	
 	public feature_add()
 	{
 		
