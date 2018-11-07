@@ -33,6 +33,10 @@ function dataScript(){
     );
 	
 	
+	var branch;
+	var service;
+	var queue;
+	
 	
 	public feature_add()
 	{
